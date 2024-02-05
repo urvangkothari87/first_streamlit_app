@@ -6,3 +6,8 @@ s.header('Breakfast Menu')
 s.text('Omega 3 & Blueberry Oatmeal')
 s.text('Banana, Mango, and Spinach Smoothie')
 s.text('Hard-Boiled Free-Range Eggs')
+s.text('Avacado Toast')
+
+s.header('Build Your Own Fruit Smoothie')
+
+
